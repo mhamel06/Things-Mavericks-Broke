@@ -5,14 +5,14 @@ Things-Mavericks-Broke
     
 Java 1.6: http://support.apple.com/kb/DL1572?viewlocale=en_US
 
-###Maven Uninstalled:
+###Maven Uninstalled
 
 Maven used to ship with OSX, but no longer within Mavericks.
 
     brew install maven
 
 
-###JBoss Missing:
+###JBoss Missing
 
     brew install jboss-as
     
