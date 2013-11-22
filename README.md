@@ -22,3 +22,6 @@ http://gvmtool.net/
 
     curl -s get.gvmtool.net | bash
   
+###Prompting for "Local Items" keychain password after changing login password.
+
+    https://discussions.apple.com/thread/5473260
